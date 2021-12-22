@@ -169,19 +169,19 @@ elif pilih ==4:
 # Output
 # Menu pilihan untuk menambahkan, menampilkan, menghapus, dan mengubah data
 
-![gambar](ss/1.png)
+![gambar](ss/1.PNG)
 
 # Output program tambah data
 
-![gambar](ss/2.png)
+![gambar](ss/2.PNG)
 
 # Output ubah data
 
 
-![gambar](ss/3.png)
+![gambar](ss/3.PNG)
 
 # Output hapus data
 
 
-![gambar](ss/4.png)
+![gambar](ss/4.PNG)
 
